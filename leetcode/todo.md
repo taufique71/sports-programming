@@ -1,4 +1,4 @@
-# To Do List
+# Leetcode List
 
 - [76 - Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [96 - Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
